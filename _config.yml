@@ -1,20 +1,4 @@
-name: YourStudio
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0
-title: Your Studio Media Productions
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -22,8 +6,13 @@ color:
     - '#1bb3e4'
     - '#000000'
     - '#4f4f4f'
-  brandStrength: 0.625
+  brandStrength: 0.271959
   lightness: 0.5
-  saturation: 0.75
   rhythmicContrast: 0.75
+  saturation: 0.75
+cta: {}
+layout_spectrum: 1
+name: YourStudio
+opengraph: {}
 purpose: []
+typography_spectrum: 0
