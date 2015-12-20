@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[YourStudio]]></title>
+        <description><![CDATA[YourStudio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Dec 2015 19:34:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[¿Qué es YourStudio?]]></title>
+            <description><![CDATA[<article><h1>¿Qué es YourStudio?</h1><p>YourStudio es una agencia digital, un estudio de grabación, un aliado para ti y tu negocio.</p></article>]]></description>
+            <link>undefinedque-es-yourstudio/index.html</link>
+            <guid isPermaLink="false">4549816c-9b0c-4744-a564-20042a82ee8e</guid>
+            <pubDate>Sun, 20 Dec 2015 19:34:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
