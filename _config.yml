@@ -2,6 +2,7 @@ name: YourStudio
 favicon: null
 layout_spectrum: 0.3490697799716145
 typography_spectrum: 0.5927620036527514
+title: Your Studio Media Productions
 cta:
   domain: null
   bucket: null
