@@ -1,7 +1,7 @@
 name: YourStudio
 favicon: null
-layout_spectrum: 0.3490697799716145
-typography_spectrum: 0.5927620036527514
+layout_spectrum: 1
+typography_spectrum: 0
 title: Your Studio Media Productions
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#1bb3e4'
     - '#000000'
     - '#4f4f4f'
-  brandStrength: 0.6875
-  lightness: 0.4608244616538286
-  saturation: 0.6385939633473754
-  rhythmicContrast: 0.9067222899757326
+  brandStrength: 0.625
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
